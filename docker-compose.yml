@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : trainwithshubham/my-note-app:latest
+     image : swastik2929/django-app:v2
      ports :
          - "8000:8000"
